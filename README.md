@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NM-owenmiddleton
+- 👋 Hi, I’m Owen, Junior Data Scientist
 - 👀 I’m interested in eDNA, mammals, bacteria, and I guess fish and insects and stuff
 - 🌱 I’m currently learning how to felt 
-- 💞️ I’m looking to collaborate on eDNA related funky analyses
 - 📫 How to reach me Teams
 
 <!---
