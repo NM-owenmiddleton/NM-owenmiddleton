@@ -1,4 +1,4 @@
-- 👋 Hi, I’m: Owen, Junior Data Scientist
+- 👋 Hi, I’m: Owen, a Junior Data Scientist within the Products Team at NatureMetrics
 - 👀 I’m interested in: novel and non-invasive biodiversity monitoring methods, community ecology, and paleobiology. 
 - 🌱 I’m currently learning how to: Make wool sculptures from felting. 
 - 📫 How to reach me: blow the Horn of the Mark.
