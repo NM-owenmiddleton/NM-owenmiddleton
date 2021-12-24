@@ -1,7 +1,7 @@
 - 👋 Hi, I’m: Owen, Junior Data Scientist
-- 👀 I’m interested in: eDNA, mammals, bacteria, and I guess fish and insects and stuff.
-- 🌱 I’m currently learning how to: Make woolen sculptures from dry felting. 
-- 📫 How to reach me: Teams.
+- 👀 I’m interested in: novel and non-invasive biodiversity monitoring methods, community ecology, and paleobiology. 
+- 🌱 I’m currently learning how to: Make wool sculptures from felting. 
+- 📫 How to reach me: blow the Horn of the Mark.
 
 <!---
 NM-owenmiddleton/NM-owenmiddleton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
